@@ -51,7 +51,7 @@ Centre de gestion de projets et de méthode Agile/Scrum.
 - 📌 Status: Actif | 29 issues en cours
 - 🎯 Features: Gestion de sprints, tableaux Kanban, suivi d'avancement
 
-### 4. **ARTCI** - Gestion des Couriers et Réunions
+### 4. **CRM ARTCI** - Gestion des Couriers et Réunions
 Système de gestion pour les couriers et réunions du CR.
 - 🔗 Repository: [`artci`](https://github.com/transnumerik-inc/artci)
 - 🛠️ Tech Stack: TypeScript
@@ -68,11 +68,6 @@ Solution de gestion d'entreprise.
 ### 6. **TNK ATS Web** - Interface Web
 Interface web pour le Applicant Tracking System.
 - 🔗 Repository: [`tnk-ats-web`](https://github.com/transnumerik-inc/tnk-ats-web)
-- 📌 Status: En développement
-
-### 7. **TNK ClipMember**
-Plateforme de gestion communautaire.
-- 🔗 Repository: [`tnk-clipmember`](https://github.com/transnumerik-inc/tnk-clipmember)
 - 📌 Status: En développement
 
 ---
